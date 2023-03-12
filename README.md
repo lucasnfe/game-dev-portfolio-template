@@ -1,5 +1,7 @@
-# urban-theme
+# Urban Theme (Portfolio) Quick Start
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
 
-Live-Demo: https://narkotyk.netlify.app
+
+## Acknowledgements
+
+This is largely based on the original [urban-theme](https://github.com/midzer/urban-theme).
