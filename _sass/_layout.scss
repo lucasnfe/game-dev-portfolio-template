@@ -41,9 +41,23 @@
  * Site footer
  */
 .site-footer {
+    margin: 1rem 0;
+    padding: 1rem 0;
+	font-size: 12px;
+}
+
+.site-footer-home {
     border-top: 1px solid $grey-color-light;
-    margin: 2rem 0;
-    padding: 2rem 0;
+    margin: 1rem 0;
+    padding: 1rem 0;
+	font-size: 12px;
+}
+
+.site-info {
+    border-top: 1px solid $grey-color-light;
+	border-bottom: 1px solid $grey-color-light;
+    margin: 1rem 0;
+    padding: 1rem 0;
 }
 
 .contact-list,
