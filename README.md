@@ -2,7 +2,7 @@
 
 ## Sample
 
-Here is a sample of what a portfolio might look like with this theme: [https://gamingportfolio.github.io/](https://gamingportfolio.github.io/)
+Here is a sample of what a portfolio might look like with this theme: [https://gamingportfolio.github.io/](https://gamingportfolio.github.io/). The repository for the sample page is [here](https://github.com/gamingportfolio/gamingportfolio.github.io).
 
 ## Setting up on GitHub Pages
 
@@ -76,6 +76,10 @@ After the second line with `---`, you can edit the rest of the file with normal 
 ## Editing Files Locally
 
 While you can edit all of your files through the GitHub website if you want to, you also can"clone" a copy of your repository and access all the files locally and then "push" them back to GitHub. If you haven't used GitHub before, [GitHub Desktop](https://desktop.github.com/) makes it relatively painless to get a copy of your files and push them back to the server. For large changes, this workflow is recommended as opposed to editing the files through the website.
+
+## Questions?
+
+If you have any questions, feel free to post in the [discussions](https://github.com/gamingportfolio/template/discussions).
 
 ## Acknowledgements
 
