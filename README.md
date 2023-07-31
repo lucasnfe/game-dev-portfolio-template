@@ -1,14 +1,12 @@
-# Urban Theme (Portfolio) Quick Start
+# Tema Simples para Portfólio de Desenvolvedor de Jogos
 
-## Sample
+Exemplo de portfólio criado com esse tema: [https://gamingportfolio.github.io/](https://gamingportfolio.github.io/)
 
-Here is a sample of what a portfolio might look like with this theme: [https://gamingportfolio.github.io/](https://gamingportfolio.github.io/). The repository for the sample page is [here](https://github.com/gamingportfolio/gamingportfolio.github.io).
+## Configurando o GitHub Pages
 
-## Setting up on GitHub Pages
-
-1. If you do not have a GitHub account yet, create one and login with it
-2. From the [gamingportfolio/template](gamingportfolio/template) page on GitHub, select "Use this template" and click "Create a new repository":
-   ![Use this template](_docs/1.png)
+1. Se você ainda não tem uma conta no GitHub, crie uma e faça login com ela;
+2. A partir da página [gamingportfolio/template](gamingportfolio/template) no GitHub, selecione "Use this template" e clique em "Create a new repository":
+   ![Use this template](docs/1.png)
 3. From this page, keep the owner either as your GitHub username (or if you have an organization you want to use, select the organization). The repo name should be named `githubname.github.io`. For example, if I'm making it for the `gamingportfolio` organization, I would use `gamingportfolio.github.io`. Make sure this repo is ***public*** (otherwise, you will need a paid/pro account to host on GitHub pages).
    ![Repository name](_docs/2.png)
 4. After a few moments, it will create your copy of the template
